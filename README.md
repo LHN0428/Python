@@ -1,4 +1,4 @@
-  * 这是本人平常学习Python-100=Days的一些笔记
+  * 这是本人平常学习Python-100-Days的一些笔记
   * File Name: All Project
   * Author: Vcatus
   * Version: V1.0
